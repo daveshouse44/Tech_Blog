@@ -21,12 +21,14 @@ This application is a technical blog for developers to publish content, as well 
 
 ## Link
 
-[Check out this App here!]()
+[Check out this App here!](https://tech-blog-daveshouse44.herokuapp.com/)
 
 
 ## Screenshot
 
-![Image of functional application](./Assets/14-mvc-homework-demo-01.gif) 
+![Image of functional application](assets/main-page.png) 
+
+![Image of dashboard in application](assets/dashboard.png) 
 
 
 ## Technologies-Used
